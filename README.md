@@ -22,4 +22,4 @@ For more sophisticated calculations see the longer paper:
 
 Please cite both papers if you use this code in your own research. 
 
-This code uses the faster estimation methods of the short paper to drastically speed up computation time, which is suitable for estimating mirror star signatures at the order-of-magnitude level for flux and within a factor of < ~ 2 for frequency cutoffs and peaks over a wide range of possible mirror star and atomic dark matter parameters. 
+This code uses the faster estimation methods of the short paper to drastically speed up computation time, which is suitable for estimating mirror star signatures at the order-of-magnitude level for flux over a wide range of possible mirror star and atomic dark matter parameters. Features like peak frequencies and cutoffs are more accurate since they are more determined by fundamental parameters than by the exact properties of the SM nugget.
