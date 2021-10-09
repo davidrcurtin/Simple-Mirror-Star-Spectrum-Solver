@@ -2,7 +2,7 @@
 (c) Jack Setford, 2021
 
 
-Ths is a Mathematica code to estimate the thermal and X-ray spectrum of atomic dark matter mirror stars that capture SM matter via a small dark photon kinetic mixing.
+This is a Mathematica code to estimate the thermal and X-ray spectrum of atomic dark matter mirror stars that capture SM matter via a small dark photon kinetic mixing.
 
 These calculations are based on the SHORT paper that introduced mirror stars and calculated their signatures arising from capturing SM matter in their cores:
  
